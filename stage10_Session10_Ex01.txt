@@ -1,0 +1,13 @@
+Phần 1. Phân tích lỗi
+- Lỗi phân cấp tiêu đề: Dùng ### Danh sách các loại rau khiến tiêu đề nhảy từ H1 xuống H3, bỏ qua H2. Cần sửa thành ## Danh sách các loại rau
+- Lỗi cú pháp hình ảnh: Dùng [Logo Dự án](https://greentech.vn/logo.png) chỉ tạo liên kết, không hiển thị ảnh. Cần thêm dấu ! phía trước thành ![Logo Dự án](https://greentech.vn/logo.png)
+- Lỗi in đậm: Dùng *Rất quan trọng chỉ có một dấu sao ở đầu và không có dấu sao đóng nên sai cú pháp. Muốn in đậm phải dùng hai dấu sao ở đầu và cuối câu: Rất quan trọng
+- Lỗi khoảng cách sau dấu #: Tiêu đề Markdown phải có khoảng trắng giữa dấu # và nội dung, ví dụ # Lợi ích của rau sạch. Nếu thiếu khoảng trắng, tiêu đề có thể không được nhận diện đúng
+Phần 2. Hoàn thiện
+# Lợi ích của rau sạch
+
+## Danh sách các loại rau
+
+![Logo Dự án](https://greentech.vn/logo.png)
+
+Rau sạch tốt cho sức khỏe
